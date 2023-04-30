@@ -1,0 +1,21 @@
+this is my first Commit
+Pushing the project to kiril branch LawnMOwers that located on gitHub
+1a Ps C:\School> ls                ls-press enter, will show the folders inside the folder scholl
+1b Ps C:\School> cd LawnMowers         ---pick the folder that we want and get it1. cd <directory name>
+2  Ps C:\School\LawnMowers> code .     space and dot --will open the visual studio code
+2.Extra commadds tha can help us  
+2a git status     -- will show us the files that was changed they will be in red collor
+2b git diff       --will show the local changes
+
+3 Creating a new branch: git branch <name of the branch>
+4 git checkout <new branch name>
+
+5 (any changes that we make on local disc could be commited to the git repo (local)
+
+6  git push --set-upstream origin AlexeiGriga86
+
+5 git change -A
+
+6 git commit -m "Message" (This is to commit the changes to the local git repository)
+
+7 git push (This pushes the changes into the remote repository) 
